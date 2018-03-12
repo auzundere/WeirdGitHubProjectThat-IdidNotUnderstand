@@ -12,8 +12,8 @@ public class FirstClass {
 		System.out.println("Forth Message - Evgeniya. 12/36");// from Evgeniya
 		System.out.println("Third Message - Evgeniya  12-45");// from Evgeniya
 		System.out.println("Third Message- Fatime");
-	System.out.println("Unstage to stage area is not respoding");// from Fatime
-	System.out.println("Unstage to stage area is not respoding");// from Fatime
+		System.out.println();
+	
 		
 	}
 
